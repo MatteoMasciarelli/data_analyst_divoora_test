@@ -7,7 +7,7 @@ def main():
     perform_etl("database.xlsx", H)
 
     # Perform queries and extract data
-    #perform_both()
+    perform_both()
 
 if __name__ == '__main__':
     main()
